@@ -24,6 +24,8 @@
 # Login Module
 - Authenticates users using username and password stored in PostgreSQL. Upon successful authentication it generates JWT tokens and stores token details in user session.
 - <img width="1920" height="1200" alt="authentication" src="https://github.com/user-attachments/assets/6f29f6ca-6242-49d3-894b-0326843f93a4" />
+- <img width="1920" height="1200" alt="authenticated-page" src="https://github.com/user-attachments/assets/c0c449fc-f65e-421d-93aa-68c22c82bb21" />
+
 
 
 # JWT Authentication Flow
